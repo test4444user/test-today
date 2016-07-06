@@ -1,2 +1,2 @@
-# test-blue
-Testing for blue with releasebot
+# test-today
+Testing for today with releasebot
